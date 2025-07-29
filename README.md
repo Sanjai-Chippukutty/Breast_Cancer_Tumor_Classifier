@@ -2,6 +2,10 @@
 
 This project aims to build a machine learning-based classifier to distinguish between **benign** and **malignant** breast cancer tumors using features derived from digitized histopathology images (Wisconsin Breast Cancer Dataset). The classifier is deployed as a **Streamlit web application**.
 
+## 🚀 Live Demo
+Try the app here: [Breast Cancer Tumor Classifier](https://breastcancertumorclassifier-qezewv5pqknpw4fitspg5k.streamlit.app/)
+e
+
 ---
 
 ## 📁 Project Structure
@@ -53,6 +57,7 @@ Breast_Cancer_Tumor_Classifier/
 5. **Deployment**
    - Built a simple **Streamlit app** that accepts key features and returns prediction in real time
    - Hosted via [Streamlit Community Cloud](https://streamlit.io/cloud)
+   - live demo [Breast Cancer Tumor Classifier](https://breastcancertumorclassifier-qezewv5pqknpw4fitspg5k.streamlit.app/)
 
 ---
 
